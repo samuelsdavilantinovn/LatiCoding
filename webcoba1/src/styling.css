@@ -1,0 +1,21 @@
+h1 {
+  color: #fff;
+  background-color: darkred;
+  padding: 5px;
+  font-family: Arial
+}
+
+h5 {
+  color: white;
+  background-color: darkred;
+  padding: 5px;
+  font-family: Calibri
+}
+
+div.card-body {
+  color: black;
+  background-color: rgb(255, 235, 235);
+  padding: 5px;
+  font-family: Calibri
+
+}
